@@ -2,6 +2,7 @@
 #include <math.h>
 
 // comentario
+// comentario2
 
 int imprime()
 {
