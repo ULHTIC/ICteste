@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 
 int imprime()
 {
@@ -17,6 +18,10 @@ void soma()
 int x(int a)
 {
 	return a*a;
+}
+int y(int a)
+{
+	return sqrt(a);
 }
 
 int main()
