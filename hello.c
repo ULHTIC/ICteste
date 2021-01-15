@@ -14,10 +14,15 @@ void soma()
 	printf("%d\n", x + y);
 }
 
+int x(int a)
+{
+	return a*a;
+}
 
 int main()
 {
 	imprime();
 	soma();
+	x(10);
 	return 0;
 }
