@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 
 int imprime()
 {
@@ -14,6 +15,10 @@ void soma()
 	printf("%d\n", x + y);
 }
 
+int y(int a)
+{
+	return sqrt(a);
+}
 
 int main()
 {
