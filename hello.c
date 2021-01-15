@@ -2,7 +2,7 @@
 
 int imprime()
 {
-	printf("Hello World\a\n");
+	printf("Hello World\n\n\n");
 	return 1;
 }
 
